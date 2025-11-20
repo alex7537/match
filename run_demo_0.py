@@ -6,7 +6,7 @@
 # distribution of this software and related documentation without an express
 # license agreement from NVIDIA CORPORATION is strictly prohibited.
 
-
+#foundation stereo run demo
 import os,sys
 code_dir = os.path.dirname(os.path.realpath(__file__))
 sys.path.append(f'{code_dir}/../')
